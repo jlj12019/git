@@ -1,0 +1,11 @@
+# AI 工作区数据（含个人记忆与日志，不进公开仓库）
+.workbuddy/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
